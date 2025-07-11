@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-gravityphone-swanzmcp-badge.png)](https://mseep.ai/app/mcp-mirror-gravityphone-swanzmcp)
+
 # Grey Swan LLM Safety Challenge MCP Server
 
 This MongoDB-integrated MCP server is designed for documenting and analyzing LLM safety challenges as part of the Grey Swan Arena competitions.
